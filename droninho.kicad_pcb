@@ -118,7 +118,7 @@
 	(net 37 "unconnected-(U2-GPIO15-Pad18)")
 	(net 38 "unconnected-(U2-3.3v-Pad16)")
 	(net 39 "unconnected-(U2-GPIO19-Pad25)")
-	(footprint "MPU-9250-6500:MPU-9250-6500"
+	(footprint "Library:MPU-9250-6500"
 		(layer "F.Cu")
 		(uuid "17fddfb6-398d-4b56-b3eb-487ef17716cf")
 		(at 120.75 125 90)
@@ -185,7 +185,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "e6a15864-29ac-41b2-86cb-129fbf9ce894")
+			(uuid "8c149262-0011-400b-bad1-faf67e28a45f")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 7.5 29.25 90)
@@ -205,7 +205,7 @@
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
 			(clearance 0.5)
-			(uuid "d8ccac44-0e93-48b6-a8d8-ccbee9e849f6")
+			(uuid "0bfdb1c2-fb1e-4f58-9949-107c388e4036")
 		)
 		(pad "" np_thru_hole circle
 			(at 13.1 23 90)
@@ -213,7 +213,7 @@
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
 			(clearance 0.5)
-			(uuid "53e64777-a8a8-43de-9237-ab0d818a0386")
+			(uuid "f852004b-c54c-4adc-a3ee-978efc813ff4")
 		)
 		(pad "1" thru_hole circle
 			(at 2 2 90)
@@ -235,7 +235,7 @@
 			(remove_unused_layers no)
 			(net 5 "GND")
 			(pinfunction "GND")
-			(pintype "bidirectional")
+			(pintype "power_in")
 			(clearance 0.5)
 			(uuid "9f246f2c-a8f7-4c65-b6a6-8f6bb29ec53e")
 		)
@@ -4904,7 +4904,7 @@
 			(remove_unused_layers no)
 			(net 7 "+3.3V")
 			(pinfunction "VIN")
-			(pintype "power_out")
+			(pintype "power_in")
 			(uuid "8ad06d99-1803-4222-86c2-16df1f3e6b98")
 		)
 		(pad "2" thru_hole oval
@@ -4915,7 +4915,7 @@
 			(remove_unused_layers no)
 			(net 5 "GND")
 			(pinfunction "GND")
-			(pintype "bidirectional")
+			(pintype "power_in")
 			(uuid "58702b9b-1e31-4586-8215-5d2db599c048")
 		)
 		(pad "3" thru_hole oval

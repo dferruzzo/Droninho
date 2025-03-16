@@ -684,7 +684,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U2"
+			(property "Reference" "U1"
 				(at 0 22.352 0)
 				(effects
 					(font
@@ -702,7 +702,7 @@
 					(justify right)
 				)
 			)
-			(property "Footprint" "MPU-9250-6500:MPU-9250-6500"
+			(property "Footprint" "Library:MPU-9250-6500"
 				(at 0.254 16.764 0)
 				(effects
 					(font
@@ -759,7 +759,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at -1.27 -22.86 90)
 					(length 2.54)
 					(name "GND"
@@ -1215,7 +1215,7 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U1"
+			(property "Reference" "U2"
 				(at -30.48 0 90)
 				(effects
 					(font
@@ -2030,7 +2030,7 @@
 						)
 					)
 				)
-				(pin bidirectional line
+				(pin power_in line
 					(at 15.24 -13.335 90)
 					(length 2.54)
 					(name "GND"
@@ -2066,7 +2066,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 17.78 -13.335 90)
 					(length 2.54)
 					(name "VIN"
@@ -2660,6 +2660,12 @@
 		(uuid "b3d42a05-a253-4584-9c5a-582288def0ea")
 	)
 	(junction
+		(at 38.1 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b842526d-702d-4e65-8278-f907d7b4ea77")
+	)
+	(junction
 		(at 96.52 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2853,6 +2859,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 106.68) (xy 40.64 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0987993d-ecaa-4d3d-9a71-0e2e418742af")
+	)
+	(wire
+		(pts
 			(xy 96.52 124.46) (xy 96.52 121.92)
 		)
 		(stroke
@@ -2940,6 +2956,16 @@
 			(type default)
 		)
 		(uuid "1d0ca3c5-1d0c-43c5-9d0c-a3c51d0ca3c5")
+	)
+	(wire
+		(pts
+			(xy 52.07 113.03) (xy 38.1 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d558dcf-937d-4843-81e3-feaffa4f977a")
 	)
 	(wire
 		(pts
@@ -3343,6 +3369,16 @@
 	)
 	(wire
 		(pts
+			(xy 52.07 111.76) (xy 52.07 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fb763bc-2144-4a7e-a74e-b385e24af96d")
+	)
+	(wire
+		(pts
 			(xy 113.03 77.47) (xy 105.41 77.47)
 		)
 		(stroke
@@ -3513,6 +3549,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 113.03) (xy 38.1 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e779969b-d79d-4e9e-99de-6e4e03a4c89c")
+	)
+	(wire
+		(pts
 			(xy 91.44 93.98) (xy 93.98 93.98)
 		)
 		(stroke
@@ -3543,7 +3589,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 106.68) (xy 40.64 106.68)
+			(xy 34.29 106.68) (xy 38.1 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4281,7 +4327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "MPU-9250-6500:MPU-9250-6500"
+		(property "Footprint" "Library:MPU-9250-6500"
 			(at 160.274 79.756 0)
 			(effects
 				(font
@@ -4427,6 +4473,72 @@
 			(project "droninho"
 				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
 					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 52.07 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2858126a-ea9b-4fa4-b9fe-63297efefd1e")
+		(property "Reference" "#FLG02"
+			(at 52.07 109.855 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 52.07 107.442 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 52.07 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 52.07 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 52.07 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54d068e3-f366-443f-ab80-7b0ac91b72f3")
+		)
+		(instances
+			(project "droninho"
+				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -5336,7 +5448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "esp32_30_38pin:ESP32_30pin"
+		(property "Footprint" "Library:ESP32_30pin"
 			(at 231.775 73.66 90)
 			(effects
 				(font
