@@ -1,12 +1,33 @@
+---
+marp: false
+---
 # Droninho
 
 Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 9.0 de um drone pequeno baseado em ESP32. O objetivo é produzir a placa de circuito impresso do hardware do droninho.
 
+---
+
+## Objetivo
+
+- Produzir a placa de circuito impresso do hardware do droninho.
+
+---
+
+## To-Do
+
+- [ ] ERC OKAY!
+- [ ] Checar footprint do conectores *J1, J2, J3, J4*.
+- [ ] Criar PCB.
+
+---
+ 
 ## Esquemático
 
 Abaixo está o diagrama esquemático do projeto:
 
-![Esquemático](esquematico.png)
+![Esquemático](esquematico.png){ height="200px" }
+
+---
 
 ## Estrutura do Repositório
 
@@ -21,6 +42,8 @@ Abaixo está o diagrama esquemático do projeto:
   - `useful-links.txt`: Links úteis relacionados ao projeto.
 - `droninho-backups/`: Pasta contendo backups do projeto.
 
+---
+
 ## Como Contribuir
 
 1. Faça um fork deste repositório.
@@ -28,6 +51,8 @@ Abaixo está o diagrama esquemático do projeto:
 3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
 4. Faça push para a branch (`git push origin feature/nome-da-feature`).
 5. Abra um Pull Request.
+
+---
 
 ## Licença
 
