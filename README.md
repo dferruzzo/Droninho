@@ -15,7 +15,7 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 
 
 ## To-Do
 
-- [ ] ERC OKAY!
+- [x] ERC OKAY!
 - [ ] Checar footprint do conectores *J1, J2, J3, J4*.
 - [ ] Criar PCB.
 
