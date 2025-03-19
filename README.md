@@ -1,6 +1,3 @@
----
-marp: false
----
 # Droninho
 
 Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 9.0 de um drone pequeno baseado em ESP32. O objetivo é produzir a placa de circuito impresso do hardware do droninho.
@@ -24,34 +21,19 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 
  
 ## Esquemático
 
-![Esquemático](esquematico.png){ height="200px" }
+![Esquemático](esquematico.png)
 
 ---
 
 ## PCB
 
-![PCB](PCB.png){ height="200px" }
+![PCB](PCB.png)
 
 ---
 
 ## 3D model
 
-![3DModel](3Dmodel.png){ height="200px" }
-
----
-
-## Estrutura do Repositório
-
-- `droninho.kicad_pcb`: Arquivo da placa de circuito impresso.
-- `droninho.kicad_prl`: Arquivo de projeto.
-- `droninho.kicad_pro`: Arquivo de projeto.
-- `droninho.kicad_sch`: Arquivo esquemático.
-- `esquematico.png`: Imagem do diagrama esquemático.
-- `Documentation/`: Pasta contendo documentos adicionais.
-  - `etapa_potencia.jpeg`: Imagem da etapa de potência.
-  - `si2300ds.pdf`: Datasheet do componente SI2300.
-  - `useful-links.txt`: Links úteis relacionados ao projeto.
-- `droninho-backups/`: Pasta contendo backups do projeto.
+![3DModel](3Dmodel.png)
 
 ---
 
