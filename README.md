@@ -23,9 +23,19 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 
  
 ## Esquemático
 
-Abaixo está o diagrama esquemático do projeto:
-
 ![Esquemático](esquematico.png){ height="200px" }
+
+---
+
+## PCB
+
+![PCB](PCB.png){ height="200px" }
+
+---
+
+## 3D model
+
+![3DModel](3Dmodel.png){ height="200px" }
 
 ---
 

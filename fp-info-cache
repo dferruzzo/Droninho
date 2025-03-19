@@ -1,4 +1,4 @@
-24737348017337326
+24739090181867595
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -65848,6 +65848,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+ESP32_30pin
+
+
+0
+30
+30
 Library
 MPU-9250-6500
 
