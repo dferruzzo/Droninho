@@ -1,6 +1,6 @@
 # Droninho
 
-Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 9.0 de um drone pequeno baseado em ESP32. O objetivo é produzir a placa de circuito impresso do hardware do droninho.
+Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad 9.0](https://www.kicad.org/) de um drone pequeno baseado em ESP32. 
 
 ---
 
@@ -13,9 +13,13 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em KiCad 
 ## To-Do
 
 - [x] ERC OKAY!
-- [ ] Checar footprint do conectores *J1, J2, J3, J4*.
 - [x] Criar PCB.
-- [ ] Checar PCB rules.
+- [x] Checar footprint do conectores *J2, J3, J4, J5*.
+- [x] Checar footprint do conector da bateria *J1*.
+- [ ] Checar PCB rules. Corrigir footprint do MPU9250.
+- [ ] Add connector for I2C and Power to connect other components for testing
+- [ ] Consider connection for RC receiver.
+- [ ] O MPU9250 está muito perto do ESP32 na placa
 
 ---
  
