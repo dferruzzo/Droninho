@@ -20,8 +20,9 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] Add connector for I2C and Power to connect other components for testing
 - [x] Consider connection for RC receiver.
 - [x] O MPU9250 está muito perto do ESP32 na placa
-- [ ] Adicionar layes com nomes dos componentes e conectores.
+- [ ] Adicionar layes com nomes dos componentes e conectores. 
 - [ ] Mandar a produzir com PCBway.
+- [ ] 
 
 ---
  
