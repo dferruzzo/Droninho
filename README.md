@@ -16,10 +16,11 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] Criar PCB.
 - [x] Checar footprint do conectores *J2, J3, J4, J5*.
 - [x] Checar footprint do conector da bateria *J1*.
-- [ ] Checar PCB rules. Corrigir footprint do MPU9250.
-- [ ] Add connector for I2C and Power to connect other components for testing
-- [ ] Consider connection for RC receiver.
-- [ ] O MPU9250 está muito perto do ESP32 na placa
+- [x] Checar PCB rules. Corrigir footprint do MPU9250.
+- [x] Add connector for I2C and Power to connect other components for testing
+- [x] Consider connection for RC receiver.
+- [x] O MPU9250 está muito perto do ESP32 na placa
+- [ ] Mandar a produzir.
 
 ---
  

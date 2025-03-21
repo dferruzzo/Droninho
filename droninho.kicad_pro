@@ -540,7 +540,7 @@
         "pattern": "/PWM1"
       },
       {
-        "netclass": "sinal",
+        "netclass": "power",
         "pattern": "GND"
       },
       {
@@ -578,6 +578,22 @@
       {
         "netclass": "sinal",
         "pattern": "/SDA"
+      },
+      {
+        "netclass": "sinal",
+        "pattern": "/TXD0"
+      },
+      {
+        "netclass": "sinal",
+        "pattern": "/RXD0"
+      },
+      {
+        "netclass": "sinal",
+        "pattern": "/TXD2"
+      },
+      {
+        "netclass": "sinal",
+        "pattern": "/RXD2"
       }
     ]
   },
