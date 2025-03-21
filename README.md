@@ -22,7 +22,6 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] O MPU9250 está muito perto do ESP32 na placa
 - [ ] Adicionar layes com nomes dos componentes e conectores. 
 - [ ] Mandar a produzir com PCBway.
-- [ ] 
 
 ---
  
