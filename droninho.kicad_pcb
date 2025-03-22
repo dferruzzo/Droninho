@@ -8028,7 +8028,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "RXD2"
+	(gr_text "RX2"
 		(at 164.65 110.29 0)
 		(layer "F.SilkS")
 		(uuid "1356625e-7788-428f-a4f6-8dc4696df814")
@@ -8090,7 +8090,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "TXD2"
+	(gr_text "TX2"
 		(at 164.65 112.92 0)
 		(layer "F.SilkS")
 		(uuid "2915e0c1-17d6-4057-80be-fa3dbebcb31f")
