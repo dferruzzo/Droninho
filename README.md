@@ -28,7 +28,7 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
  
 ## Esquemático
 
-![Esquemático](schematics.png)
+[Diagrama elétrico esquemático.](schematics.pdf)
 
 ---
 
