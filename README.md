@@ -28,22 +28,25 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
  
 ## Esquemático
 
-![Esquemático](esquematico.png)
+![Esquemático](schematics.png)
 
 ---
 
 ## PCB
 
 PCB Front
-![PCB](PCB-Front.png)
+
+![PCB](front.png)
+
 PCB Back
-![PCB](PCB-Back.png)
+
+![PCB](back.png)
 
 ---
 
 ## 3D model
 
-![3DModel](3Dmodel.png)
+![3DModel](droninho.png)
 
 ---
 
