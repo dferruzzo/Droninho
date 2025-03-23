@@ -1,0 +1,23 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+128.05,-84.41,180.0,top,D1,,,D_SOD-110,1N4148,smt
+164.13,-85.14,0.0,top,D2,,,D_SOD-110,1N4148,smt
+164.52,-123.37,0.0,top,D3,,,D_SOD-110,1N4148,smt
+125.2,-122.65,0.0,top,D4,,,D_SOD-110,1N4148,smt
+143.75,-138.57,0.0,top,J1,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,Conn_01x02_Pin,tht
+164.5,-77.01,-90.0,top,J2,,,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,M2,tht
+127.11,-77.01,-90.0,top,J3,,,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,M1,tht
+164.28,-127.26,-90.0,top,J4,,,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,M3,tht
+126.99,-127.26,-90.0,top,J5,,,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,M4,tht
+127.89,-104.77,0.0,top,J6,,,PinHeader_1x04_P2.54mm_Vertical,I2C,tht
+162.93,-100.99,180.0,top,J7,,,PinHeader_1x04_P2.54mm_Vertical,TXD0/RXD0,tht
+162.84,-113.42,180.0,top,J8,,,PinHeader_1x04_P2.54mm_Vertical,I2C,tht
+124.6125,-88.59,180.0,top,Q1,,,SOT-23,SI2300,smt
+166.1875,-88.74,0.0,top,Q2,,,SOT-23,SI2300,smt
+165.8675,-119.1,0.0,top,Q3,,,SOT-23,SI2300,smt
+125.1325,-118.19,180.0,top,Q4,,,SOT-23,SI2300,smt
+129.06,-88.73,90.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt
+162.18,-88.56,-90.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt
+161.22,-118.92,-90.0,top,R3,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt
+129.77,-118.34,90.0,top,R4,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,10K,smt
+144.7375,-86.1902,0.0,top,U1,,,ESP32_30pin vertical WIFI,ESP32 Dev Kit,tht
+132.13,-136.12,90.0,top,U4,,,MPU-9250-6500,MPU9250/6500,tht
