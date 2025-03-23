@@ -18,8 +18,8 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] Checar footprint do conector da bateria *J1*.
 - [x] Checar PCB rules. Corrigir footprint do MPU9250.
 - [x] Add connector for I2C and Power to connect other components for testing
-- [x] Consider connection for RC receiver.
-- [x] O MPU9250 está muito perto do ESP32 na placa
+- [x] Consider connection for RC receiver (cancelled!).
+- [x] O MPU9250 está muito perto do ESP32 na placa.
 - [x] Adicionar layer com nomes dos componentes e conectores. 
 - [x] Ready for review.
 - [ ] Duvida: A distancia entre a entrada USB do ESP32 e o MPU9250 é suficiente?
