@@ -22,6 +22,7 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] O MPU9250 está muito perto do ESP32 na placa
 - [x] Adicionar layer com nomes dos componentes e conectores. 
 - [x] Ready for review.
+- [ ] Duvida: A distancia entre a entrada USB do ESP32 e o MPU9250 é suficiente?
 - [ ] Mandar a produzir com PCBway.
 
 ---
