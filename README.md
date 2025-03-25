@@ -25,8 +25,8 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] Duvida: A distancia entre a entrada USB do ESP32 e o MPU9250 é suficiente? Não.
 - [x] Mudar de lado o ESP32 OK.
 - [x] Mudar footprint dos diodos e resistências OK.
-- [ ] Colocar uma fonte regulada de 3.3v.
-- [ ] mudar os footprints dos conectores dos motores e da bateria.
+- [ ] Colocar uma fonte regulada de 3.3v. https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html#power-supply-options https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_sch.pdf
+- [ ] Mudar os footprints dos conectores dos motores e da bateria.
 - [ ] Mandar a produzir com PCBway.
 
 ---
