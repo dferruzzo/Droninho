@@ -21,8 +21,12 @@ Este repositório apresenta um diagrama eletrônico esquemático feito em [KiCad
 - [x] Consider connection for RC receiver (cancelled!).
 - [x] O MPU9250 está muito perto do ESP32 na placa.
 - [x] Adicionar layer com nomes dos componentes e conectores. 
-- [x] Ready for review.
-- [ ] Duvida: A distancia entre a entrada USB do ESP32 e o MPU9250 é suficiente?
+- [x] For review.
+- [x] Duvida: A distancia entre a entrada USB do ESP32 e o MPU9250 é suficiente? Não.
+- [x] Mudar de lado o ESP32 OK.
+- [x] Mudar footprint dos diodos e resistências OK.
+- [ ] Colocar uma fonte regulada de 3.3v.
+- [ ] mudar os footprints dos conectores dos motores e da bateria.
 - [ ] Mandar a produzir com PCBway.
 
 ---
