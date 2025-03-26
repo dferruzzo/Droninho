@@ -594,6 +594,10 @@
       {
         "netclass": "sinal",
         "pattern": "/RXD2"
+      },
+      {
+        "netclass": "power",
+        "pattern": "+5V"
       }
     ]
   },
