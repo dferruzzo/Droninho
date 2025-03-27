@@ -1,1 +1,3 @@
 https://microcontrollerslab.com/esp32-mpu9250-tutorial/
+https://docs.espressif.com/projects/esp-dev-kits/en/latest/esp32/esp32-devkitc/user_guide.html#power-supply-options
+https://dl.espressif.com/dl/schematics/esp32_devkitc_v4_sch.pdf
