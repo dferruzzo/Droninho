@@ -12,169 +12,6 @@
 		(comment 1 "Minidrone com ESP32")
 	)
 	(lib_symbols
-		(symbol "Connector:Conn_01x02_Pin"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02_Pin"
-				(at 0 -5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x02_Pin_1_1"
-				(rectangle
-					(start 0.8636 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin power_out line
-					(at 5.08 0 180)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_out line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
 				(offset 1.016)
@@ -2357,6 +2194,113 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad_Power"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad_Power"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_Power_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_Power_1_1"
+				(pin power_out line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Regulator_Linear:AMS1117-3.3"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3487,16 +3431,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 99.06) (xy 54.61 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b79b4e8-9655-447f-a562-08514dcfaf4b")
-	)
-	(wire
-		(pts
 			(xy 256.54 27.94) (xy 261.62 27.94)
 		)
 		(stroke
@@ -3527,7 +3461,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 96.52) (xy 52.07 96.52)
+			(xy 36.83 91.44) (xy 44.45 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4057,7 +3991,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 99.06) (xy 54.61 99.06)
+			(xy 36.83 104.14) (xy 46.99 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4456,7 +4390,7 @@
 		(uuid "fe01ad6b-676f-47c0-b274-e2f72dfe0d85")
 	)
 	(label "GND"
-		(at 46.99 99.06 0)
+		(at 39.37 104.14 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4706,7 +4640,7 @@
 		(uuid "8f94f7d6-7d88-4859-9ea4-df3460f9a04e")
 	)
 	(label "BAT+"
-		(at 45.72 96.52 0)
+		(at 39.37 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5234,7 +5168,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape round)
-		(at 52.07 96.52 270)
+		(at 44.45 91.44 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5243,7 +5177,7 @@
 		)
 		(uuid "eeeb61df-de46-4e71-be4d-12df67a0c719")
 		(property "Netclass" "Ext_5v"
-			(at 55.88 96.52 0)
+			(at 48.26 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5252,7 +5186,7 @@
 			)
 		)
 		(property "Component Class" ""
-			(at -26.67 29.21 0)
+			(at -34.29 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6284,7 +6218,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 54.61 100.33 0)
+		(at 46.99 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6292,7 +6226,7 @@
 		(dnp no)
 		(uuid "226a13cc-4557-42ed-ad7b-b057d404a88e")
 		(property "Reference" "#PWR03"
-			(at 54.61 106.68 0)
+			(at 46.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6301,7 +6235,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 58.166 102.362 0)
+			(at 50.546 106.172 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6309,7 +6243,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 54.61 100.33 0)
+			(at 46.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6318,7 +6252,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 100.33 0)
+			(at 46.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6327,7 +6261,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 54.61 100.33 0)
+			(at 46.99 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6981,6 +6915,71 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_Power")
+		(at 34.29 91.44 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bd27ed0-77ed-4397-9229-143552a29392")
+		(property "Reference" "H1"
+			(at 33.02 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MountingHole_Pad_Power"
+			(at 33.02 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
+			(at 34.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 34.29 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8d89c22e-7bce-4ed4-8c09-ba6a3afe6455")
+		)
+		(instances
+			(project ""
+				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 64.77 55.88 0)
 		(unit 1)
@@ -7520,74 +7519,6 @@
 			(project "droninho"
 				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Pin")
-		(at 39.37 96.52 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "75cf8024-56fa-4bbb-9992-005fe5e62bd0")
-		(property "Reference" "J1"
-			(at 40.005 91.186 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02_Pin"
-			(at 40.005 93.726 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
-			(at 39.37 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 39.37 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 39.37 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "745bda7c-bca6-4d59-b1e8-d817520a6441")
-		)
-		(pin "1"
-			(uuid "65de0ec3-0b83-4922-8768-f7f1cd695e7a")
-		)
-		(instances
-			(project ""
-				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -8552,6 +8483,71 @@
 			(project "droninho"
 				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad_Power")
+		(at 34.29 104.14 90)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c27f4ba8-146e-4a1b-b086-9094c8371981")
+		(property "Reference" "H2"
+			(at 33.02 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MountingHole_Pad_Power"
+			(at 33.02 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
+			(at 34.29 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 34.29 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 34.29 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d9f3f571-2ced-4393-a6e4-f58c8653b601")
+		)
+		(instances
+			(project "droninho"
+				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
+					(reference "H2")
 					(unit 1)
 				)
 			)
