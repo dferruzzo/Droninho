@@ -1,0 +1,123 @@
+(footprint "Connector_Motor"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.75 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "88b21d70-30fd-45e2-bf1d-8b38ec918bed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Connector_Motor"
+		(at 0 3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2212ff41-0bfc-4f43-a710-ffbda4f31bfa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1101957-484d-476a-a723-3eebfa2b6218")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2d194cb5-079c-4c1c-ada0-5b76c078f6a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -4.5 -2)
+		(end 4.5 2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "2fa3d64d-77f9-4dd2-b48d-1f5c183a24d1")
+	)
+	(fp_text user "M+"
+		(at -7 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "30aeb0d2-0354-4c04-99cc-67ed726207ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "M-"
+		(at 4.5 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "5dcda801-3500-4e36-ac85-f3d60dfc0c4b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1d96fc0e-0603-4d45-8ed3-7989463b51f5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -2.25 0)
+		(size 3 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f580c80c-d5a5-484c-a6f9-bc1296d7d240")
+	)
+	(pad "2" thru_hole circle
+		(at 2.25 0)
+		(size 3 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f66b41a7-6d62-4d03-b1ac-c5939947c973")
+	)
+	(embedded_fonts no)
+)
