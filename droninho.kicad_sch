@@ -5326,6 +5326,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "PinHeader_1x04_P2.54mm_Vertical"
+			(at 250.19 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7e15f8bf-a5a3-4dd2-8a42-efaaaf3bc218")
 		)
@@ -5364,7 +5373,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10K(5%)"
 			(at 40.64 145.034 90)
 			(effects
 				(font
@@ -5392,6 +5401,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 40.64 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 40.64 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5433,13 +5451,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Through Hole Connector"
 			(at 116.84 161.29 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:Connector_Motor"
@@ -5460,7 +5480,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor connector"
+			(at 123.19 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 123.19 158.75 0)
 			(effects
 				(font
@@ -5502,7 +5531,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI2300"
+		(property "Value" "Si2300DS"
 			(at 121.92 41.9099 0)
 			(effects
 				(font
@@ -5530,6 +5559,15 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 115.57 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 115.57 40.64 0)
 			(effects
 				(font
@@ -5602,7 +5640,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "MPU9250/6500 board"
+			(at 196.85 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 196.85 43.18 0)
 			(effects
 				(font
@@ -5732,7 +5779,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10K(5%)"
 			(at 40.64 155.194 90)
 			(effects
 				(font
@@ -5760,6 +5807,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 40.64 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 40.64 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5801,13 +5857,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Through Hole Connector"
 			(at 118.11 66.04 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:Connector_Motor"
@@ -5828,7 +5886,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor connector"
+			(at 124.46 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 124.46 63.5 0)
 			(effects
 				(font
@@ -5870,7 +5937,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI2300"
+		(property "Value" "Si2300DS"
 			(at 121.92 85.0899 0)
 			(effects
 				(font
@@ -5898,6 +5965,15 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 115.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 115.57 83.82 0)
 			(effects
 				(font
@@ -6008,7 +6084,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI2300"
+		(property "Value" "Si2300DS"
 			(at 120.65 133.3499 0)
 			(effects
 				(font
@@ -6036,6 +6112,15 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 114.3 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 114.3 132.08 0)
 			(effects
 				(font
@@ -6080,7 +6165,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "WHITE LED"
 			(at 49.276 149.606 0)
 			(effects
 				(font
@@ -6125,6 +6210,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 50.8 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b6aaf440-edf0-449f-84f7-acff948e18cf")
 		)
@@ -6157,12 +6251,14 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W SOD-123 SMD 100V 2A (A2)"
 			(at 129.794 174.244 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -6210,6 +6306,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "D_SOD-123"
+			(at 123.19 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fd8333c-4fd8-433c-8fd8-333c4fd8333d")
 		)
@@ -6243,7 +6348,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "WHITE LED"
 			(at 49.276 159.512 0)
 			(effects
 				(font
@@ -6280,6 +6385,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 50.8 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 50.8 162.56 0)
 			(effects
 				(font
@@ -6450,12 +6564,14 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W SOD-123 SMD 100V 2A (A2)"
 			(at 129.794 127.254 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -6495,6 +6611,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 123.19 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "D_SOD-123"
 			(at 123.19 124.46 0)
 			(effects
 				(font
@@ -6602,13 +6727,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Through Hole Connector"
 			(at 116.84 114.3 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:Connector_Motor"
@@ -6629,7 +6756,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor connector"
+			(at 123.19 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 123.19 111.76 0)
 			(effects
 				(font
@@ -6867,13 +7003,15 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Through Hole Connector"
 			(at 118.11 22.86 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Library:Connector_Motor"
@@ -6894,7 +7032,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Motor connector"
+			(at 124.46 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 124.46 20.32 0)
 			(effects
 				(font
@@ -6935,12 +7082,14 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W SOD-123 SMD 100V 2A (A2)"
 			(at 131.064 35.814 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -6980,6 +7129,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 124.46 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "D_SOD-123"
 			(at 124.46 33.02 0)
 			(effects
 				(font
@@ -7086,7 +7244,7 @@
 				)
 			)
 		)
-		(property "Value" "ESP32 Dev Kit"
+		(property "Value" "ESP32 ESP-WROOM-32 DEVKit V1"
 			(at 197.485 103.505 0)
 			(effects
 				(font
@@ -7113,7 +7271,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ESP32 DEVKIT board"
+			(at 198.12 126.365 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "Not applicable"
 			(at 198.12 126.365 0)
 			(effects
 				(font
@@ -7303,7 +7470,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10K(5%)"
 			(at 26.416 39.37 90)
 			(effects
 				(font
@@ -7331,6 +7498,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 29.21 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 29.21 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7621,7 +7797,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "85123a0f-6163-4cd4-adc7-17fdb890dab9")
 		(property "Reference" "C1"
 			(at 40.64 41.9162 0)
@@ -7632,7 +7807,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22uF/10V(20%)"
 			(at 40.64 44.4562 0)
 			(effects
 				(font
@@ -7660,6 +7835,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 38.1 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 38.1 43.18 0)
 			(effects
 				(font
@@ -7728,6 +7912,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 251.46 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "PinHeader_1x04_P2.54mm_Vertical"
 			(at 251.46 30.48 0)
 			(effects
 				(font
@@ -7840,7 +8033,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SI2300"
+		(property "Value" "Si2300DS"
 			(at 120.65 180.3399 0)
 			(effects
 				(font
@@ -7868,6 +8061,15 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 114.3 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23"
 			(at 114.3 179.07 0)
 			(effects
 				(font
@@ -8011,6 +8213,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+			(at 256.54 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47069b62-8146-4238-a4a7-9202dc5e2a8d")
 		)
@@ -8043,7 +8254,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10K(5%)"
 			(at 40.64 175.514 90)
 			(effects
 				(font
@@ -8071,6 +8282,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 40.64 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 40.64 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8146,6 +8366,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "SOT-223-3_TabPin2"
+			(at 52.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7257d022-236f-4187-8243-8aade0f91864")
 		)
@@ -8172,10 +8401,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "abea1466-ca32-4de8-bfb9-230eb5e809a9")
 		(property "Reference" "D1"
-			(at 33.02 49.8474 90)
+			(at 24.13 49.022 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8183,8 +8411,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
-			(at 33.02 52.3874 90)
+		(property "Value" "RED LED"
+			(at 19.558 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8221,6 +8449,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 29.21 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 29.21 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8287,6 +8524,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 250.19 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "PinHeader_1x04_P2.54mm_Vertical"
 			(at 250.19 102.87 0)
 			(effects
 				(font
@@ -8530,7 +8776,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "KMR241G LFS"
 			(at 256.54 125.73 0)
 			(effects
 				(font
@@ -8557,6 +8803,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 256.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SW_Push_1P1T_NO_CK_KMR2"
 			(at 256.54 130.81 0)
 			(effects
 				(font
@@ -8663,7 +8918,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "WHITE LED"
 			(at 49.276 169.418 0)
 			(effects
 				(font
@@ -8708,6 +8963,15 @@
 				(hide yes)
 			)
 		)
+		(property "Package" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 50.8 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "33a25864-f5bd-48ea-a0ae-79dc594df76a")
 		)
@@ -8740,12 +9004,14 @@
 				)
 			)
 		)
-		(property "Value" "1N4148"
+		(property "Value" "1N4148W SOD-123 SMD 100V 2A (A2)"
 			(at 131.064 80.264 0)
+			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
@@ -8785,6 +9051,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 124.46 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "D_SOD-123"
 			(at 124.46 77.47 0)
 			(effects
 				(font
@@ -8891,7 +9166,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "WHITE LED"
 			(at 49.022 138.684 0)
 			(effects
 				(font
@@ -8928,6 +9203,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 50.8 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -9033,7 +9317,7 @@
 				)
 			)
 		)
-		(property "Value" "10K"
+		(property "Value" "10K(5%)"
 			(at 40.64 165.354 90)
 			(effects
 				(font
@@ -9061,6 +9345,15 @@
 		)
 		(property "Description" "Resistor, US symbol"
 			(at 40.64 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 40.64 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9102,7 +9395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "22uF/10V(20%)"
 			(at 67.31 44.4562 0)
 			(effects
 				(font
@@ -9130,6 +9423,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 64.77 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 64.77 43.18 0)
 			(effects
 				(font

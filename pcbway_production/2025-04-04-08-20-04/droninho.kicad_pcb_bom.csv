@@ -1,0 +1,16 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins,Sim.Device
+"C1, C2",2,22uF/10V(20%),C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,"Unpolarized capacitor, small symbol",,
+C3,1,0.1uF/50V(10%),C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,,,smt,"Unpolarized capacitor, small symbol",,
+D1,1,RED LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,Light emitting diode,1=K 2=A,
+"D2, D3, D4, D5",4,WHITE LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,,,smt,Light emitting diode,1=K 2=A,
+"D6, D7, D8, D9",4,1N4148,D_SOD-123,,,,smt,"100V 0.15A standard switching diode, DO-35",1=K 2=A,D
+"J6, J8",2,I2C,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated",,
+J7,1,TXD0/RXD0,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated",,
+"Q1, Q2, Q3, Q4",4,SI2300,SOT-23,,,,smt,"N-MOSFET transistor, gate/source/drain",,
+"R1, R2, R3, R4",4,10K(5%),R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,"Resistor, US symbol",,
+R5,1,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,,,smt,"Resistor, US symbol",,
+SW1,1,SW_Push,SW_Push_1P1T_NO_CK_KMR2,,,,smt,"Push button switch, generic, two pins",,
+U1,1,AMS1117-3.3,SOT-223-3_TabPin2,,,,smt,"1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223",,
+U2,1,MPU9250/6500,MPU-9250-6500,,,,tht,,,
+U3,1,ESP32 Dev Kit,ESP32_30pin vertical WIFI,,,,tht,,,
+"U4, U5, U6, U7",4,~,Connector_Motor,,,,tht,,,
