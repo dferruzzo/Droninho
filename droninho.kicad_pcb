@@ -218,6 +218,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d44d6304-5a7e-4cc9-9789-c8ade640c078")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "GRM21BR61A226ME51L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "39d4280e-4079-408f-aa17-9210cfaf3119")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0987085-ffd5-4016-8919-193867347990")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6de7e373-374a-40b2-82ef-ed0fbb9f54dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "C2"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5350239e-d45d-463a-a802-7389be232436")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/fe700ea7-1852-46fb-b314-d578592df2cf")
 		(sheetname "/")
@@ -451,6 +516,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04f8758d-0d34-4756-bfcd-6243b4f587c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5921440-ab21-42cd-8dff-a0f453f77b80")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "1N4148W"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e5f3082d-da2e-4314-9d1b-443b3b624c24")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOD-123F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91b38b40-d171-4343-bd77-50c1c2693244")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2cc71bdc-c8f8-494e-b7e7-39de8485c7b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D8"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3aae4b59-266d-4b65-b284-a782d3c4675a")
 			(effects
 				(font
 					(size 1 1)
@@ -992,7 +1122,7 @@
 				)
 			)
 		)
-		(property "Value" "0.1uF/50V(10%)"
+		(property "Value" "0.1uF/10V(5%)"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "851b169c-78e9-419e-bd8a-92ce79d3ebec")
@@ -1033,6 +1163,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eddaddb5-6b65-4931-abe6-5c599ddf271e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c25b5be2-19b3-4a48-a39f-a276d8002818")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "GRM21B7U1A104JA01L"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90e65e1c-3336-4dfd-8645-b746ff5473fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9367c08f-6344-43df-a13a-4d182c3c8eb3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "74f1e28d-562f-4221-9b80-d222548d176c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "C3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e4d6b075-4e4e-4c80-9094-fd3baf8f8346")
 			(effects
 				(font
 					(size 1 1)
@@ -1267,6 +1462,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Broadcom / Avago"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15bb9bc9-7caa-4f6b-9901-bc909de4d215")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "HSMW-C170"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1d3488e8-3fa9-402c-a03f-76160c4120b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0961620b-a285-4a14-9620-5a626cbb5548")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59922132-16e7-4321-9f10-9868e6ee2263")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D5"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b2e52be-fb60-4eee-993a-c0bedef6a354")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e2d4d051-a1f7-4228-8d4d-86d77458ff3f")
 		(sheetname "/")
@@ -1453,7 +1713,7 @@
 				)
 			)
 		)
-		(property "Value" "10K(5%)"
+		(property "Value" "10K(1%)"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "e7f7fc71-03ae-4c3a-97c5-a0d775a23252")
@@ -1496,6 +1756,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9bad7f9d-e063-4c1c-b93e-dbad1fa80657")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04a72bd8-442c-44d4-8995-d0bfa52deb01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "ERJ-6ENF1002V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2f3c560a-e2bd-463c-ba36-2cd8328fe68a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b58c87f4-5b47-4a72-854b-6c2f5a5b6ea9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1a60b4be-7256-403a-8821-f3fea907363c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "R2"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "86d0c49b-b7f7-4b1a-b635-c38c68f7834a")
 			(effects
 				(font
 					(size 1 1)
@@ -1715,6 +2040,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Vishay"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "592551a7-8bdb-4601-b524-4f2e97459f2c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "SI2300DS-T1-BE3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad9503cc-dcfb-4b81-83c5-fe32643f4ce7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOT-23 (TO-236)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "17cc32e1-11a7-4b67-93d4-bd1c9632a311")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "35e4cc0a-675f-4440-b8ca-eb405479f64c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "Q1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4f97115c-3208-49dd-a258-917c8e375dc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/04322865-d2cc-4b9f-9dda-d28ea68d127b")
 		(sheetname "/")
 		(sheetfile "droninho.kicad_sch")
@@ -1886,6 +2276,173 @@
 			)
 		)
 	)
+	(footprint "MountingHole:MountingHole_2.2mm_M2_DIN965_Pad"
+		(layer "F.Cu")
+		(uuid "24431606-92be-480b-9d41-fe72004feaaf")
+		(at 116.775 75.69)
+		(descr "Mounting Hole 2.2mm, M2, DIN965")
+		(tags "mounting hole 2.2mm m2 din965")
+		(property "Reference" "H1"
+			(at 0 -2.9 0)
+			(layer "F.SilkS")
+			(uuid "15f11972-65aa-4a91-995a-4140e6d2e983")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole_Pad_MP"
+			(at 0 2.9 0)
+			(layer "F.Fab")
+			(uuid "63e5608c-9990-4ee9-8667-ffae1f7fd851")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "19bbb7ac-232d-4c2a-bf07-02afb15a2b86")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole with connection as pad named MP"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "565de630-61d2-4289-a042-0e7e7fab4f45")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d38a09cb-5b69-4ecd-bca9-174ffb1b0460")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "21df3d5b-a252-4d18-ab6d-4d47d0af833f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7dfd3d62-eb0f-427d-a4a8-432b1f9be1e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5231dc30-a94a-421a-9c7e-0b2ce7791f86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0eab3eeb-a2b4-4989-949d-4313e41958f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "MountingHole*Pad*")
+		(path "/64f79b5d-ab37-4b80-98fd-6e1bfc153260")
+		(sheetname "/")
+		(sheetfile "droninho.kicad_sch")
+		(attr exclude_from_pos_files exclude_from_bom)
+		(fp_circle
+			(center 0 0)
+			(end 1.9 0)
+			(stroke
+				(width 0.15)
+				(type solid)
+			)
+			(fill no)
+			(layer "Cmts.User")
+			(uuid "7cf9faf9-ff29-4b77-908a-d69070966fb8")
+		)
+		(fp_circle
+			(center 0 0)
+			(end 2.15 0)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "be383970-4d00-4985-b335-1f2bbb239ff9")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "728111d6-7024-46d7-8367-87b0a936b706")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 3.8 3.8)
+			(drill 2.2)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "b2bd5060-aa53-43c6-b3b8-4031e5ca489f")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Package_TO_SOT_SMD:SOT-23"
 		(layer "F.Cu")
 		(uuid "312cc020-9c91-4a03-ad8a-386516e45388")
@@ -1944,6 +2501,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50f3152c-f4dc-4c4c-919a-591ffc25fbc6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Vishay"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0758afc0-bf7a-458f-a7a1-b5c417e832e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "SI2300DS-T1-BE3"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "63407e41-e1c8-48f3-ab53-2b5fcf3baed3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOT-23 (TO-236)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dff98578-74d0-4ae7-a1df-b14bf11b2c38")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3ff35035-8c18-45c9-a5a8-d52db3e59704")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "Q4"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cde6d855-c69e-41d5-918c-578132025c4b")
 			(effects
 				(font
 					(size 1 1)
@@ -2283,7 +2905,7 @@
 				)
 			)
 		)
-		(property "Value" "10K(5%)"
+		(property "Value" "10K(1%)"
 			(at 0 1.65 0)
 			(layer "F.Fab")
 			(uuid "7bdcbf77-c63d-4104-8ca1-0968fb106832")
@@ -2326,6 +2948,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "645f4f47-ea6a-4cf8-82b7-63f1c326dd6c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cba756c-a415-4ec0-8809-9ed9e10d548b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "ERJ-6ENF1002V"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa4bb7db-7134-4a54-bd00-daa06130b680")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ad85819-b2f4-427a-9fd4-0df63c823cc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a3bb2594-ecb3-44db-acd3-93a721868b26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "R1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6cd40b97-b618-41a1-9761-dfa13680a76c")
 			(effects
 				(font
 					(size 1 1)
@@ -3076,6 +3763,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "160b822c-fcb6-4b7d-961a-5db91e7b4c1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "1N4148W"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ad449747-b746-47a8-95c6-01f02dd0f6e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOD-123F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dddadbef-1368-4f9c-89be-74f5005c561b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d7be3a1b-bd8d-4bc7-b5e9-ce0750517547")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2606a8e3-f4e7-4280-9b99-de7c8db0f5d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/5746ca81-380a-42c3-b37c-28518ea74657")
 		(sheetname "/")
@@ -3398,6 +4150,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1659f85e-4b45-4fe1-9cad-73d82e0c2a32")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "1N4148W"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ae579f82-df79-46a3-9af3-81b18522ff25")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOD-123F"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e0840279-fb44-4d77-89ca-9ab37b343546")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8238b70-4b09-4043-8a8b-edfd5c697b3d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D7"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84f65443-1ac4-4992-b030-7f011ba12997")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*DO?35*")
 		(path "/e7500fe8-e750-4fe8-a750-0fe8e7500fe8")
 		(sheetname "/")
@@ -3687,6 +4504,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "74cdc16a-c3b4-4741-a6e8-f2e4c0197eef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "514979e8-aa3e-4b86-b28d-4168ecc472fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "GRM21BR61A226ME51L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "40b3eeb3-2aa0-4fc6-b00d-7d935654b811")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "635532c6-21d0-4668-b84a-88fb18f68bc3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "031c6ae8-a2b0-4b6a-ba8f-5ab55b120428")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "C1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5aa652a8-741f-4cc6-8fe3-baf02881de81")
 			(effects
 				(font
 					(size 1 1)
@@ -4438,7 +5320,7 @@
 				)
 			)
 		)
-		(property "Value" "10K(5%)"
+		(property "Value" "10K(1%)"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "c24b6c47-dac3-49ce-ba23-a81ec61a8bff")
@@ -4481,6 +5363,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e987afc2-04f7-4de5-b399-cfa2f03951a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "75b40d55-2f64-4da5-aabf-f5f0bb2b8901")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "ERJ-6ENF1002V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d8ef980-cbec-4224-afb5-4b9ee7ec1063")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b04d8645-51fa-41de-9e3d-15da522ae535")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7cacf0a-36de-4874-b1f7-1c1e81bb5e33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "R5"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "efe7c153-9832-40d2-9b22-8b54629f673d")
 			(effects
 				(font
 					(size 1 1)
@@ -4652,7 +5599,7 @@
 				)
 			)
 		)
-		(property "Value" "10K(5%)"
+		(property "Value" "10K(1%)"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "273d380d-72ba-4491-97be-72ea5be91135")
@@ -4695,6 +5642,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3a6500d5-0d15-49a7-8db3-7a3aea06fc11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa8182dc-4c85-44e3-a77f-c7685e993478")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "ERJ-6ENF1002V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7540f49-cba8-47ca-b374-17abe8af1eb1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfb6bcda-e77f-4bf8-9b62-d6c7c8242673")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0002cff-4f53-418d-8844-897b32f7ef6f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "R4"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ee16bd9b-be31-467d-b164-259e313624fd")
 			(effects
 				(font
 					(size 1 1)
@@ -5714,6 +6726,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Vishay"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "992ddc36-7977-432f-87de-0779765fb4de")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "SI2300DS-T1-BE3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed4e1696-699c-4fc1-a90d-6b10c8dd1b65")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOT-23 (TO-236)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "85d8f77b-8f44-4d5b-a14d-eb6fb86abaff")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c156af8-631e-4360-8e4f-283268b3d42c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "Q2"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f0e37dd5-1bcb-4eaa-bbd2-ee87859e5238")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1033a722-10d3-4bd1-8348-ad5a7630bf7a")
 		(sheetname "/")
 		(sheetfile "droninho.kicad_sch")
@@ -5965,6 +7042,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Broadcom / Avago"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fac66227-53c2-47e0-a59f-ecadd5475630")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "HSMW-C170"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "941605d4-3905-4cc0-a97d-01500c716a20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "646a77bf-5341-4720-84e4-aa94d71f8a4b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71ce3001-a6e8-4657-aa94-8c414097c8f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D4"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7a006c3-73c8-4eac-9049-102ae9d79d51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1cc6bb6d-5d6e-4018-bb8b-9cb7d13963c4")
 		(sheetname "/")
@@ -6199,6 +7341,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Vishay"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7cf1c2ee-ce4a-4d34-ac86-b8816e95ebe6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "SI2300DS-T1-BE3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b7565e2-550a-4f8f-8b1f-cdbc38108108")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOT-23 (TO-236)"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73e379d9-3895-4632-89e9-b97cadfb2205")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e2bcdeb-10cf-4053-afc8-59b98e5cce1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "Q3"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b76bf8de-382e-457a-ab5d-1a480aec5a6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/1549bc5e-1549-4c5e-9549-bc5e1549bc60")
 		(sheetname "/")
 		(sheetfile "droninho.kicad_sch")
@@ -6387,7 +7594,7 @@
 				)
 			)
 		)
-		(property "Value" "10K(5%)"
+		(property "Value" "10K(1%)"
 			(at 0 1.65 90)
 			(layer "F.Fab")
 			(uuid "fd572e42-26c0-4642-b9a1-6feb1565d1e2")
@@ -6430,6 +7637,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ae751ef-121f-4dea-b8d3-b34be4e15327")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Panasonic"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6a5d6b27-f867-4251-b49d-18e0af309523")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "ERJ-6ENF1002V"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d918a115-a02e-4de4-976f-c7cf8d1eac02")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4c64d1aa-3d4c-44d9-b93e-74efaff37309")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a603cb63-7ed5-430f-a700-ed23051cbe8c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "R3"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c8c2235e-e57c-493c-a6be-2aab2f2d477c")
 			(effects
 				(font
 					(size 1 1)
@@ -6942,6 +8214,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Broadcom / Avago"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7d97c57c-5686-4cd1-9e17-6343de6a404d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "HSMW-C170"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7ae53bb-3342-405a-b59d-793c8488c05b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c7f2d4b4-517d-4920-aae6-0bff7c84f677")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "25d6b6bd-d94b-42e0-b05b-98e72343492b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D3"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c6c43e58-241d-42b0-bdf3-22f667a69a7b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/1adad8a7-ecba-47ec-b89e-5e117335655f")
 		(sheetname "/")
@@ -7335,6 +8672,71 @@
 				)
 			)
 		)
+		(property "Manufacturer" "Broadcom / Avago"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "16681f81-153c-4882-8772-03d9c53d13c2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "HSMW-C170 "
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7cd28c2-8648-4f95-bd77-284d3b089c4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2c5c9f21-8a14-4fb1-8d94-f9eeb5cf689c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d19ac77b-edef-438e-81c9-36b15e876d1e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D2"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b24782cc-1aba-4d7b-b10e-e57035299411")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/e96459e1-b7ff-49e0-95d2-f1fce5b90ca5")
 		(sheetname "/")
@@ -7577,6 +8979,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "45f7a3f6-42d5-4662-9a64-5fa45b23f97f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Wurth Elektronik"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "01a7b03c-077b-46ee-98b2-340e49f8b204")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "150080RS75000"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ef4fc94b-f2ab-43b3-990c-d3d0de682694")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "0805"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38674bd7-c5c7-4664-a527-3eac6623d125")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ccbbb8b0-5006-4bd0-892b-6feda1a36dfb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D1"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba4e1454-a162-4a3c-902d-4528e6b0ff10")
 			(effects
 				(font
 					(size 1 1)
@@ -7839,6 +9306,71 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b351d062-f91b-48b1-8ee1-c1c30b171d7f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "Diotec Semiconductor"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73b45c37-5e2d-4cc4-86b3-731522086432")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mfg Part #" "1N4148W"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "658402b1-52c2-4282-98c6-a7f59e1b4a54")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package/Footprint" "SOD-123F"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20018e0a-bde4-4d3a-91d2-b66b5b3e3648")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Type" "SMD"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3e6ea2af-e7ab-4568-bf3e-b6672e56340f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Designator" "D9"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "597450af-b810-4f35-9fef-ef6c9934e1d9")
 			(effects
 				(font
 					(size 1 1)
