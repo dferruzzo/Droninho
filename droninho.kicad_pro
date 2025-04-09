@@ -547,6 +547,18 @@
       ],
       "/BAT+": [
         "Ext_5v"
+      ],
+      "Net-(U2-EN)": [
+        "Ext_5v"
+      ],
+      "Net-(U2-OUT)": [
+        "+1.8v"
+      ],
+      "Net-(U8-VDD)": [
+        "+3.3v"
+      ],
+      "Net-(U8-VDDIO)": [
+        "+1.8v"
       ]
     },
     "netclass_patterns": [
