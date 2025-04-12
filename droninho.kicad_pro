@@ -559,6 +559,9 @@
       ],
       "Net-(U8-VDDIO)": [
         "+1.8v"
+      ],
+      "unconnected-(J1-Pin_1-Pad1)": [
+        "+3.3v"
       ]
     },
     "netclass_patterns": [
