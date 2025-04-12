@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.25
         }
       },
       "diff_pair_dimensions": [
@@ -109,6 +109,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -559,9 +560,6 @@
       ],
       "Net-(U8-VDDIO)": [
         "+1.8v"
-      ],
-      "unconnected-(J1-Pin_1-Pad1)": [
-        "+3.3v"
       ]
     },
     "netclass_patterns": [
