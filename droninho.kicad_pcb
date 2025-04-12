@@ -9754,8 +9754,20 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "12v\nmax"
+		(at 65 79.5 0)
+		(layer "F.SilkS")
+		(uuid "20b01829-6d4d-4104-a8dd-a96429418145")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify bottom)
+		)
+	)
 	(gr_text "PWM4"
-		(at 68.8 54.8 90)
+		(at 68.85 54.8 90)
 		(layer "F.SilkS")
 		(uuid "2ffd9e0b-0446-4ce1-88ae-ec83ec93098a")
 		(effects
@@ -9767,7 +9779,7 @@
 		)
 	)
 	(gr_text "+3.3v"
-		(at 62.3 54.8 90)
+		(at 62.25 54.8 90)
 		(layer "F.SilkS")
 		(uuid "346bbe6e-db2c-4462-a899-3e0d141946da")
 		(effects
@@ -9806,18 +9818,6 @@
 		(at 61.2 79 0)
 		(layer "F.SilkS")
 		(uuid "3d183611-7fa4-44e6-8769-9f73fc844ef7")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "12v\nmax"
-		(at 63.6 79.7 0)
-		(layer "F.SilkS")
-		(uuid "4b8932c8-50bf-4c58-9e76-62ce1aef7926")
 		(effects
 			(font
 				(size 1 1)
@@ -9898,10 +9898,106 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "PWM1"
+		(at 64.9 53.3 90)
+		(layer "B.SilkS")
+		(uuid "029b95b7-bac9-4e9f-a0a4-cddd2389c41e")
+		(effects
+			(font
+				(size 0.8 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "M3-\nM3+"
+		(at 79.8 73.85 0)
+		(layer "B.SilkS")
+		(uuid "1eae57a9-f3d4-487e-8fcc-eb7480702083")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PWM3"
+		(at 67.5 53.3 90)
+		(layer "B.SilkS")
+		(uuid "3a9ec6c6-f438-4322-8882-71c33ccf253b")
+		(effects
+			(font
+				(size 0.8 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PWM4"
+		(at 68.8 53.3 90)
+		(layer "B.SilkS")
+		(uuid "4a152189-dad0-4ea1-a2ab-9498e324bc87")
+		(effects
+			(font
+				(size 0.8 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "M2-\nM2+"
+		(at 79.7 59.45 0)
+		(layer "B.SilkS")
+		(uuid "79b64541-02ae-4fd8-bf58-2ebd0086213b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "+3.3v"
+		(at 62.3 53.1 90)
+		(layer "B.SilkS")
+		(uuid "81ac757e-fd62-4c3e-9289-0f3a7ee9bf2a")
+		(effects
+			(font
+				(size 0.8 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "B+\n"
 		(at 63.6 79 0)
 		(layer "B.SilkS")
 		(uuid "88a5772b-8480-454c-9ac2-56663f0b9b77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 63.6 53.3 90)
+		(layer "B.SilkS")
+		(uuid "b505182a-20fd-4550-81db-7219350c7ea2")
+		(effects
+			(font
+				(size 0.8 0.75)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "M4+\nM4-"
+		(at 53.75 73.85 0)
+		(layer "B.SilkS")
+		(uuid "c72cbf01-f941-4fa5-b891-09b6b56b497c")
 		(effects
 			(font
 				(size 1 1)
@@ -9917,6 +10013,30 @@
 		(effects
 			(font
 				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "M1+\nM1-"
+		(at 53.9 59.45 0)
+		(layer "B.SilkS")
+		(uuid "cf3a5bf7-1b9b-464c-b8e9-ef7d988ad5f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "PWM2"
+		(at 66.2 53.3 90)
+		(layer "B.SilkS")
+		(uuid "cf55b5b0-ef29-499e-a80e-76872d433334")
+		(effects
+			(font
+				(size 0.8 0.75)
 				(thickness 0.15)
 			)
 			(justify left bottom mirror)
