@@ -4577,236 +4577,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:Conn_01x02_Socket")
-		(at 142.24 157.48 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "23d49cd6-d202-426b-8b96-7cbf6e8bd62e")
-		(property "Reference" "J5"
-			(at 146.05 156.8449 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02_Socket"
-			(at 146.05 159.3849 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Hirose:Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical"
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg Part #" ""
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package/Footprint" ""
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Designator" ""
-			(at 142.24 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d76572a0-47fe-4425-b90d-3452f7095144")
-		)
-		(pin "2"
-			(uuid "c632e8b8-3f1b-4c30-9196-36ac83c3a15a")
-		)
-		(instances
-			(project "droninho"
-				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x02_Socket")
-		(at 142.24 110.49 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "24a5ccfc-6dcf-49cb-89d6-3a4d178c7771")
-		(property "Reference" "J4"
-			(at 146.05 109.8549 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Conn_01x02_Socket"
-			(at 146.05 112.3949 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_Hirose:Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical"
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated"
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mfg Part #" ""
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package/Footprint" ""
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Type" ""
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Designator" ""
-			(at 142.24 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "afb15309-dc21-4433-8fed-4eddd00d25b5")
-		)
-		(pin "2"
-			(uuid "9f22a383-811e-487a-b0c7-d75a0bf4bfe6")
-		)
-		(instances
-			(project "droninho"
-				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
-					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 71.12 156.21 90)
 		(unit 1)
@@ -5959,6 +5729,121 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 142.24 110.49 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2976e3e-0016-4fb7-ba10-d83a6501b230")
+		(property "Reference" "J4"
+			(at 146.05 109.8549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 146.05 112.3949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JST Commercial"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Part #" " BM02B-PASS-TF(LF)(SN)"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package/Footprint" "2POS"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "thru-hole"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designator" "J4"
+			(at 142.24 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d406186-f94d-45d7-a737-46a7033f8cb4")
+		)
+		(pin "2"
+			(uuid "a6aa19e9-5b8b-4413-8e0a-9755a9d6b9e5")
+		)
+		(instances
+			(project "droninho"
+				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Regulator_Linear:AMS1117-3.3")
 		(at 62.23 43.18 0)
 		(unit 1)
@@ -6012,6 +5897,51 @@
 			)
 		)
 		(property "Package" "SOT-223-3_TabPin2"
+			(at 62.23 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 62.23 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Part #" "LM1117MPX-3.3/NOPB"
+			(at 62.23 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package/Footprint" "SOT-223-4"
+			(at 62.23 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "SMD"
+			(at 62.23 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designator" "U1"
 			(at 62.23 43.18 0)
 			(effects
 				(font
@@ -6236,6 +6166,121 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Socket")
+		(at 142.24 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b913883c-bf43-40d3-8452-f3f94d8fbfac")
+		(property "Reference" "J5"
+			(at 146.05 156.8449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Socket"
+			(at 146.05 159.3849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "JST Commercial"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mfg Part #" " BM02B-PASS-TF(LF)(SN)"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package/Footprint" "2POS"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Type" "thru-hole"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Designator" "J5"
+			(at 142.24 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c519dd5-a2ae-45f7-8a6e-7e970597ab14")
+		)
+		(pin "2"
+			(uuid "8435eb7d-8541-4229-b873-ddf99ec68353")
+		)
+		(instances
+			(project "droninho"
+				(path "/50215636-8ce2-4b01-ade7-3715bffabe9d"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 138.43 96.52 0)
 		(unit 1)
@@ -6328,7 +6373,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Hirose:Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6355,7 +6400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "JST Commercial"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6364,7 +6409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfg Part #" ""
+		(property "Mfg Part #" " BM02B-PASS-TF(LF)(SN)"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6373,7 +6418,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package/Footprint" ""
+		(property "Package/Footprint" "2POS"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6382,7 +6427,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "thru-hole"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6391,7 +6436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Designator" ""
+		(property "Designator" "J3"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -6575,7 +6620,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Hirose:Hirose_DF13-06P-1.25DSA_1x06_P1.25mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6602,7 +6647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "JST Commercial"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6611,7 +6656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfg Part #" ""
+		(property "Mfg Part #" "BM06B-PASS-TF(LF)(SN)"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6620,7 +6665,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package/Footprint" ""
+		(property "Package/Footprint" "6POS"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6629,7 +6674,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "thru-hole"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6638,7 +6683,7 @@
 				(hide yes)
 			)
 		)
-		(property "Designator" ""
+		(property "Designator" "J1"
 			(at 223.52 102.87 0)
 			(effects
 				(font
@@ -6908,7 +6953,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_Hirose:Hirose_DF13-02P-1.25DSA_1x02_P1.25mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
 			(at 143.51 19.05 0)
 			(effects
 				(font
@@ -6935,7 +6980,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "JST Commercial"
 			(at 143.51 19.05 0)
 			(effects
 				(font
@@ -6944,7 +6989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mfg Part #" ""
+		(property "Mfg Part #" " BM02B-PASS-TF(LF)(SN)"
 			(at 143.51 19.05 0)
 			(effects
 				(font
@@ -6953,7 +6998,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package/Footprint" ""
+		(property "Package/Footprint" "2POS"
 			(at 143.51 19.05 0)
 			(effects
 				(font
@@ -6962,7 +7007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Type" ""
+		(property "Type" "thru-hole"
 			(at 143.51 19.05 0)
 			(effects
 				(font
@@ -6971,7 +7016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Designator" ""
+		(property "Designator" "J2"
 			(at 143.51 19.05 0)
 			(effects
 				(font
