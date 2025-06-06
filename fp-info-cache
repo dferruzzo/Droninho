@@ -1,4 +1,4 @@
-25315490787298642
+25318981103565287
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66725,6 +66725,20 @@ ESP32_30pin vertical WIFI
 30
 Library
 MPU-9250-6500
+
+
+0
+10
+10
+MPU-9250-6500
+MPU-9250-6500
+
+
+0
+10
+10
+MPU-9250-6500
+Sem título
 
 
 0
